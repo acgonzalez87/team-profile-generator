@@ -8,7 +8,7 @@ This app was built to demonstrate the use of OOP and TDD using Jest. Based on us
 To install, please clone the repository and download Node. This app will also need a file system and inquirer module.  
 
 ## Usage 
-Here is walk through video -  
+Here is walk through video   
 
 ## [![Team Profile Generator](https://img.youtube.com/vi/__83TwEVHv4/0.jpg)](https://www.youtube.com/watch?v=__83TwEVHv4)
 <img src="https://i.imgur.com/kJWMQpq.png">
