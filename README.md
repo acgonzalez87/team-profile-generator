@@ -23,4 +23,4 @@ Please read the installation section if you wish to contribute.
 Enter `npm test` to execute tests on constructors. 
 
 ## Questions
-If you have questions please feel free to reach out to me at acgonzalez87@gmail.com or visit my github at github.com/acgonzalez87
+If you have questions please feel free to reach out to me at acgonzalez87@gmail.com or visit my github at https://github.com/acgonzalez87
