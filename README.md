@@ -9,7 +9,7 @@ To install, please clone the repository and download Node. This app will also ne
 
 ## Usage 
 Here is walk through video -  
-##
+#
 [![Team Profile Generator](https://img.youtube.com/vi/__83TwEVHv4/0.jpg)](https://www.youtube.com/watch?v=__83TwEVHv4)
 <img src="https://i.imgur.com/kJWMQpq.png">
 
